@@ -1,0 +1,19 @@
+{
+    "name": "zhibek/vdb",
+    "description": "vdb",
+    "type": "project",
+    "authors": [
+        {
+            "name": "John Levermore",
+            "email": "john.levermore@zhibek.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.3.*",
+        "zendframework/zftool": "0.1.*",
+        "doctrine/doctrine-orm-module": "0.8.0",
+        "zendframework/zend-developer-tools": "dev-master",
+        "simplethings/entity-audit-bundle": "^0.7.0"
+    }
+}
